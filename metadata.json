@@ -1,0 +1,6 @@
+{
+    "uuid": "vpn-status@frozen33rus.ru",
+    "name": "VPN Status",
+    "description": "Check VPN status1",
+    "max-instances": "1"
+}
